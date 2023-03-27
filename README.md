@@ -1,4 +1,5 @@
-# multix-amsterdam.github.io
-
-This repository hosts the code for the MultiX lab website, using the following template:
+Website template from:
 - https://github.com/yenchiah/project-website-template
+
+Website:
+https://isthatadeveloper.github.io/PharmacyIndex.github.io/
